@@ -47,6 +47,7 @@ public class StreamingApplication {
 
     public static void main(String args[]) {
         long execTime = DEFAULT_EXEC_TIME_MINS;
+        // Add your Nebula cluster specific information below
         String address = "e76064f8-2997-42fc-9fa8-a0d0f62397a4.gridgain-nebula-test.com:47500";
         String login = "test";
         String password = "testing1";
