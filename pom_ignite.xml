@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.gridgain.demo</groupId>
-    <artifactId>ignite-streaming-monitoring-demo</artifactId>
+    <artifactId>ignite-streaming-nebula-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <repositories>
         <repository>
             <id>GridGain External Repository</id>
-            <url>http://www.gridgainsystems.com/nexus/content/repositories/external</url>
+            <url>https://www.gridgainsystems.com/nexus/content/repositories/external</url>
         </repository>
     </repositories>
 
